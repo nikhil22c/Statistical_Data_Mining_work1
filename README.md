@@ -1,1 +1,1 @@
-# nikhil22c-Statistical_Data_Mining_work1
+Model to predict the Property1 from the given dataset using Multiple Linear Regression.
